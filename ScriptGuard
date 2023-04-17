@@ -1,17 +1,20 @@
 {
 	"CMNT1":"TOOL SIDE",
- 	"TOOL" : [
-		"ONLINE" : "False",
-		"ALL"    : "ON",
-	],
-	"CLIENT"[
+ "TOOL" : [
 		{
-			"ID"  : "THE ID"
-			"OFF" : "OFF"
+		"ONLINE" : "False",
+		"ALL"    : "ON"
 		}
-	}
+	],
+	"CLIENT":[
+		{
+			"ID"  : "THE ID",
+			"OFF" : "OFF"
+		}],
 	
- 	"CMNT2":"CLIENT SIDE",
+ "CMNT2":"CLIENT SIDE",
+	
+	
 	"KEYS" : [
 		{
 			"ID"   : "999000",
