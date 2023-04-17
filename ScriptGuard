@@ -1,5 +1,17 @@
 {
- "ONLINE" : "False",
+	"CMNT1":"TOOL SIDE",
+ 	"TOOL" : [
+		"ONLINE" : "False",
+		"ALL"    : "ON",
+	],
+	"CLIENT"[
+		{
+			"ID"  : "THE ID"
+			"OFF" : "OFF"
+		}
+	}
+	
+ 	"CMNT2":"CLIENT SIDE",
 	"KEYS" : [
 		{
 			"ID"   : "999000",
